@@ -28,6 +28,7 @@ Introduction to LoRa, long range radio networking.
 
 ### Pi Linux Computer Node
 - https://github.com/tamberg/pi-lora
+- https://www.raspberrypi.com/products/raspberry-pi-zero-w/ (e.g. from [Pi-shop](https://www.pi-shop.ch/raspberry-pi-zero-wh-kit), CHF 32)
 - https://www.tindie.com/products/drazzy/lorawan-rn2483rn2903-breakout-board-assembled/ (USD 32)
 
 ### Dragino Gateway w/ 4G
