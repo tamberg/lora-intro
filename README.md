@@ -9,7 +9,7 @@ Introduction to LoRa, long range radio networking.
 ## LoRa with FreakWAN
 - https://github.com/antirez/freakwan
 - https://github.com/eriol/freakble
-- 2 * https://lilygo.cc/products/lora3
+- 2 * https://lilygo.cc/products/lora3 (USD 18)
 
 ## LoRa with Meshtastic
 - https://meshtastic.org
