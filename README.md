@@ -26,6 +26,10 @@ Introduction to LoRa, long range radio networking.
 - https://github.com/tamberg/fhnw-iot/wiki/Feather-M4-Express (USD 23)
 - https://github.com/tamberg/fhnw-iot/wiki/FeatherWing-RFM95W (USD 28)
 
+### Arduino Uno Node
+- http://www.tamberg.org/chopen/2017/LoRaWANIoTWorkshop.pdf
+- https://github.com/dragino/Lora/tree/master/Lora%20Shield/hardware/v1.3
+
 ### Pi Linux Computer Node
 - https://github.com/tamberg/pi-lora
 - https://www.raspberrypi.com/products/raspberry-pi-zero-w/ (e.g. from [Pi-shop](https://www.pi-shop.ch/raspberry-pi-zero-wh-kit), CHF 32)
