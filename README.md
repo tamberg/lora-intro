@@ -17,4 +17,4 @@ Introduction to LoRa, long range radio networking.
 ## LoRaWAN with TheThingsNetwork
 - https://www.thethingsnetwork.org
 - https://github.com/tamberg/pi-lora
-- http://www.tamberg.org/fhnw/2023/hs/IoT08LoRaWANConnectivity.pdf
+- https://github.com/tamberg/fhnw-iot/blob/master/08/README.md 
