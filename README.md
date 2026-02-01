@@ -12,6 +12,7 @@ Introduction to LoRa, long range radio networking.
 
 ## LoRa with Meshtastic
 - https://meshtastic.org
+- https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html
 
 ## LoRaWAN with TheThingsNetwork
 - https://www.thethingsnetwork.org
