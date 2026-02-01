@@ -1,13 +1,16 @@
 # Introduction to LoRa
-Introduction to Long Range networking.
+Introduction to LoRa, long range radio networking.
 
-## LoRaWAN
+## LoRa and LoRaWAN
+- https://en.wikipedia.org/wiki/LoRa
 - https://blog.lora-alliance.org/what-is-lorawan
-- https://www.thethingsnetwork.org
 
-## FreakWAN
+## LoRa with FreakWAN
 - https://github.com/antirez/freakwan
 - https://github.com/eriol/freakble
 
-## Meshtastic
+## LoRa with Meshtastic
 - https://meshtastic.org
+
+## LoRaWAN with TheThingsNetwork
+- https://www.thethingsnetwork.org
