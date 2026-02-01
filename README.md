@@ -18,5 +18,6 @@ Introduction to LoRa, long range radio networking.
 ## LoRaWAN with TheThingsNetwork
 - https://www.thethingsnetwork.org
 - https://github.com/tamberg/pi-lora
-- https://github.com/tamberg/fhnw-iot/wiki/FeatherWing-RFM95W
+- https://www.tindie.com/products/drazzy/lorawan-rn2483rn2903-breakout-board-assembled/
 - https://github.com/tamberg/fhnw-iot/blob/master/08/README.md 
+- https://github.com/tamberg/fhnw-iot/wiki/FeatherWing-RFM95W
