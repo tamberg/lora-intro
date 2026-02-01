@@ -24,6 +24,7 @@ Introduction to LoRa, long range radio networking.
 ### Feather MCU Node
 - https://github.com/tamberg/fhnw-iot/blob/master/08/README.md 
 - https://github.com/tamberg/fhnw-iot/wiki/FeatherWing-RFM95W
+- https://github.com/tamberg/fhnw-iot/wiki/Feather-M4-Express
 
 ### Pi Linux Computer Node
 - https://github.com/tamberg/pi-lora
