@@ -26,7 +26,7 @@ Introduction to LoRa, long range radio networking.
 - https://github.com/tamberg/fhnw-iot/wiki/Feather-M4-Express (USD 23)
 - https://github.com/tamberg/fhnw-iot/wiki/FeatherWing-RFM95W (USD 28)
 
-### Arduino Uno Node
+### Arduino Uno MCU Node
 - http://www.tamberg.org/chopen/2017/LoRaWANIoTWorkshop.pdf
 - https://github.com/dragino/Lora/tree/master/Lora%20Shield/hardware/v1.3
 
