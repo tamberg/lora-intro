@@ -21,3 +21,4 @@ Introduction to LoRa, long range radio networking.
 - https://www.tindie.com/products/drazzy/lorawan-rn2483rn2903-breakout-board-assembled/
 - https://github.com/tamberg/fhnw-iot/blob/master/08/README.md 
 - https://github.com/tamberg/fhnw-iot/wiki/FeatherWing-RFM95W
+- https://dragino.com/products/lora-lorawan-gateway/item/225-dlos8n.html (e.g. from [Bastelgarage](https://www.bastelgarage.ch/dlos8n-4g-version-outdoor-multichannel-lorawan-gateway-1-2364?search=lora%20gateway))
