@@ -5,6 +5,7 @@ Introduction to LoRa, long range radio networking.
 - https://en.wikipedia.org/wiki/LoRa
 - https://blog.lora-alliance.org/what-is-lorawan
 - https://www.thethingsnetwork.org/docs/lorawan/what-is-lorawan/
+- https://www.thethingsnetwork.org/device-repository/
 
 ## LoRa with FreakWAN
 - https://github.com/antirez/freakwan
