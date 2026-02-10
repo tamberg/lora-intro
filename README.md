@@ -8,8 +8,11 @@ Introduction to LoRa, long range radio networking.
 - https://www.thethingsnetwork.org/device-repository/
 
 ## LoRa with FreakWAN
+### FreakWAN Overview
 - https://github.com/antirez/freakwan
-- https://github.com/eriol/freakble
+
+### FreakWAN Firmware
+- https://github.com/antirez/freakwan
 
 ### FreakWAN Nodes
 Peer-to-peer/mesh network, requires at least two nodes.
@@ -17,24 +20,34 @@ Peer-to-peer/mesh network, requires at least two nodes.
 #### Lilygo T3 LoRa32 V1.6.1
 - https://lilygo.cc/products/lora3 (USD 18)
 
-## LoRa with Meshtastic
-Peer-to-peer/mesh network, requires at least two nodes.
+### FreakWAN Clients
+- https://github.com/eriol/freakble
 
+## LoRa with Meshtastic
+### Meshtastic Overview
 - https://meshtastic.org
+
+### Meshtastic Firmware
 - https://github.com/meshtastic/firmware
 
 ### Meshtastic Nodes
+Peer-to-peer/mesh network, requires at least two nodes.
+
 #### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
 ## LoRaWAN with TheThingsNetwork
 Shared backend with shared regional gateways, requires at least one node.
 
-### LoRaWAN Backend
+### TTN Overview
 - https://www.thethingsnetwork.org
+
+### TTN Backend
 - https://eu1.cloud.thethings.network
 
-### LoRaWAN Nodes
+### TTN Nodes
+> Note: LoRaWAN is a standard, nodes work as well with other providers.
+
 #### Arduino Uno MCU w/ RFM95W Module
 - http://www.tamberg.org/chopen/2017/LoRaWANIoTWorkshop.pdf (Example)
 - https://github.com/dragino/Lora/tree/master/Lora%20Shield/hardware/v1.3
@@ -59,7 +72,9 @@ Shared backend with shared regional gateways, requires at least one node.
 - https://wiki.seeedstudio.com/wio_sx1262_with_xiao_esp32s3_kit/ (Example)
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
-### LoRaWAN Gateways
+### TTN Gateways
+> Note: LoRaWAN is a standard, gateways work as well with other providers.
+
 #### Pi 3 Linux Computer w/ IMST Concentrator
 - https://www.thingiverse.com/thing:1665467 (Enclosure)
 - https://github.com/ttn-zh/ic880a-gateway/wiki (Software)
