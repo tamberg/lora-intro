@@ -45,5 +45,11 @@ Introduction to LoRa, long range radio networking.
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
 ### LoRaWAN Gateways
+#### Pi 3 Linux Computer w/ IMST Concentrator
+- https://www.thingiverse.com/thing:1665467 (Enclosure)
+- https://shop.imst.de/wireless-modules/lora-products/8/ic880a-spi-lorawan-concentrator-868-mhz
+- https://shop.imst.de/wireless-modules/accessories/20/u.fl-to-sma-pigtail-cable-for-ic880a-spi
+- https://shop.imst.de/wireless-modules/accessories/19/sma-antenna-for-ic880a-spi-wsa01-im880b-and-lite-gateway
+
 #### Dragino Gateway w/ 4G Uplink
 - https://dragino.com/products/lora-lorawan-gateway/item/225-dlos8n.html (e.g. from [Bastelgarage](https://www.bastelgarage.ch/dlos8n-4g-version-outdoor-multichannel-lorawan-gateway-1-2364?search=lora%20gateway), CHF 300)
