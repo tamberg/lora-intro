@@ -10,35 +10,47 @@ Introduction to LoRa, long range radio networking.
 ## LoRa with FreakWAN
 - https://github.com/antirez/freakwan
 - https://github.com/eriol/freakble
-- 2 * https://lilygo.cc/products/lora3 (USD 18)
+
+### FreakWAN Nodes
+Peer-to-peer/mesh network, requires at least two nodes.
+
+#### LilyGo T3 LoRa32 V1.6.1
+- https://lilygo.cc/products/lora3 (USD 18)
 
 ## LoRa with Meshtastic
+Peer-to-peer/mesh network, requires at least two nodes.
+
 - https://meshtastic.org
 - https://github.com/meshtastic/firmware
-- 2 * https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
+
+### Meshtastic Nodes
+#### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
+- https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
 ## LoRaWAN with TheThingsNetwork
+Shared backend with shared regional gateways, requires at leas one node.
+
 ### LoRaWAN Backend
 - https://www.thethingsnetwork.org
 - https://eu1.cloud.thethings.network
 
 ### LoRaWAN Nodes
 #### Arduino Uno MCU w/ RFM95W Module
-- http://www.tamberg.org/chopen/2017/LoRaWANIoTWorkshop.pdf
+- http://www.tamberg.org/chopen/2017/LoRaWANIoTWorkshop.pdf (Example)
 - https://github.com/dragino/Lora/tree/master/Lora%20Shield/hardware/v1.3
 
 #### Feather M4 Express MCU w/ RFM95W Module
-- https://github.com/tamberg/fhnw-iot/blob/master/08/README.md 
+- https://github.com/tamberg/fhnw-iot/blob/master/08/README.md (Example)
 - https://github.com/tamberg/fhnw-iot/wiki/Feather-M4-Express (USD 23)
 - https://github.com/tamberg/fhnw-iot/wiki/FeatherWing-RFM95W (USD 28)
 
 #### Pi Pico 2040 MCU w/ E5 Module
 - https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html (USD 16)
-- https://github.com/makezurich/makezurich-badge-2023-circuitpython
-- https://github.com/makezurich/makezurich-badge-2023 (uses E5)
+- https://github.com/makezurich/makezurich-badge-2023-circuitpython (Example)
+- https://github.com/makezurich/makezurich-badge-2023 (Hardware Docs, Source)
 
 #### Pi Zero Linux Computer w/ RN2483 Module
-- https://github.com/tamberg/pi-lora
+- https://github.com/tamberg/pi-lora (Example)
 - https://www.raspberrypi.com/products/raspberry-pi-zero-w/ (e.g. from [Pi-shop](https://www.pi-shop.ch/raspberry-pi-zero-wh-kit), CHF 32)
 - https://www.tindie.com/products/drazzy/lorawan-rn2483rn2903-breakout-board-assembled/ (USD 32)
 
