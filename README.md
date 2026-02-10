@@ -47,6 +47,7 @@ Introduction to LoRa, long range radio networking.
 ### LoRaWAN Gateways
 #### Pi 3 Linux Computer w/ IMST Concentrator
 - https://www.thingiverse.com/thing:1665467 (Enclosure)
+- https://github.com/ttn-zh/ic880a-gateway/wiki (Software)
 - https://shop.imst.de/wireless-modules/lora-products/8/ic880a-spi-lorawan-concentrator-868-mhz
 - https://shop.imst.de/wireless-modules/accessories/20/u.fl-to-sma-pigtail-cable-for-ic880a-spi
 - https://shop.imst.de/wireless-modules/accessories/19/sma-antenna-for-ic880a-spi-wsa01-im880b-and-lite-gateway
