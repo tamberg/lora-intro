@@ -2,16 +2,18 @@
 Introduction to LoRa, long range radio networking.
 
 ## Overview
-- [LoRa and LoRaWAN concepts](#lora-and-lorawan)
+- [LoRa and LoRaWAN concepts](#lora-and-lorawan-concepts)
 - [FreakWAN LoRa mesh network](#freakwan-lora-mesh-network)
 - [Meshtastic LoRa mesh network](#meshtastic-lora-mesh-network)
 - [TheThingsNetwork LoRaWAN network](#thethingsnetwork-lorawan-network)
 
-## LoRa and LoRaWAN
+## LoRa and LoRaWAN Concepts
+### LoRa radio
 - https://en.wikipedia.org/wiki/LoRa
 - https://blog.lora-alliance.org/what-is-lorawan
+
+### LoRaWAN networks
 - https://www.thethingsnetwork.org/docs/lorawan/what-is-lorawan/
-- https://www.thethingsnetwork.org/device-repository/
 
 ## FreakWAN LoRa Mesh Network
 Peer-to-peer/mesh network, requires at least two nodes.
