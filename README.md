@@ -63,6 +63,9 @@ Shared backend with shared regional gateways, requires at least one node.
 #### Dragino Gateway w/ 4G Uplink
 - https://dragino.com/products/lora-lorawan-gateway/item/225-dlos8n.html (e.g. from [Bastelgarage](https://www.bastelgarage.ch/dlos8n-4g-version-outdoor-multichannel-lorawan-gateway-1-2364?search=lora%20gateway), CHF 300)
 
+### TTN Firmware
+> Note: Each module provides a library, see examples.
+
 ### TTN Nodes
 > Note: LoRaWAN is a standard, nodes work with any provider.
 
