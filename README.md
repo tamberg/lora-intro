@@ -8,6 +8,8 @@ Introduction to LoRa, long range radio networking.
 - https://www.thethingsnetwork.org/device-repository/
 
 ## LoRa with FreakWAN
+Peer-to-peer/mesh network, requires at least two nodes.
+
 ### FreakWAN Overview
 - https://github.com/antirez/freakwan
 
@@ -15,8 +17,6 @@ Introduction to LoRa, long range radio networking.
 - https://github.com/antirez/freakwan
 
 ### FreakWAN Nodes
-Peer-to-peer/mesh network, requires at least two nodes.
-
 #### Lilygo T3 LoRa32 V1.6.1
 - https://lilygo.cc/products/lora3 (USD 18)
 
@@ -24,6 +24,8 @@ Peer-to-peer/mesh network, requires at least two nodes.
 - https://github.com/eriol/freakble
 
 ## LoRa with Meshtastic
+Peer-to-peer/mesh network, requires at least two nodes.
+
 ### Meshtastic Overview
 - https://meshtastic.org
 
@@ -31,7 +33,6 @@ Peer-to-peer/mesh network, requires at least two nodes.
 - https://github.com/meshtastic/firmware
 
 ### Meshtastic Nodes
-Peer-to-peer/mesh network, requires at least two nodes.
 
 #### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
