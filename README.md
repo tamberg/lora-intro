@@ -1,6 +1,11 @@
 # Introduction to LoRa
 Introduction to LoRa, long range radio networking.
 
+- [LoRa and LoRaWAN](#lora-and-lorawan)
+- [LoRa with FreakWAN](#lora-with-freakwan)
+- [LoRa with Meshtastic](#lora-with-meshtastic)
+- [LoRaWAN with TheThingsNetwork](#lorawan-with-thethingsnetwork)
+
 ## LoRa and LoRaWAN
 - https://en.wikipedia.org/wiki/LoRa
 - https://blog.lora-alliance.org/what-is-lorawan
@@ -33,7 +38,6 @@ Peer-to-peer/mesh network, requires at least two nodes.
 - https://github.com/meshtastic/firmware
 
 ### Meshtastic Nodes
-
 #### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
