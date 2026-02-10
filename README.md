@@ -21,8 +21,13 @@ Introduction to LoRa, long range radio networking.
 ### The Things Network
 - https://www.thethingsnetwork.org
 
-### Xiao MCU Node
+### Xiao Wio MCU Node
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
+
+### #MakeZurich E5 Node
+- https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html
+- https://github.com/makezurich/makezurich-badge-2023-circuitpython
+- https://github.com/makezurich/makezurich-badge-2023 (uses E5)
 
 ### Feather MCU Node
 - https://github.com/tamberg/fhnw-iot/blob/master/08/README.md 
