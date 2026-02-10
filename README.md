@@ -2,10 +2,10 @@
 Introduction to LoRa, long range radio networking.
 
 ## Overview
-- [LoRa and LoRaWAN](#lora-and-lorawan)
-- [LoRa with FreakWAN](#lora-with-freakwan)
-- [LoRa with Meshtastic](#lora-with-meshtastic)
-- [LoRaWAN with TheThingsNetwork](#lorawan-with-thethingsnetwork)
+- [LoRa and LoRaWAN concepts](#lora-and-lorawan)
+- [FreakWAN LoRa mesh network](#freakwan-lora-mesh-network)
+- [Meshtastic LoRa mesh network](#meshtastic-lora-mesh-network)
+- [TheThingsNetwork LoRaWAN network](#thethingsnetwork-lorawan-network)
 
 ## LoRa and LoRaWAN
 - https://en.wikipedia.org/wiki/LoRa
@@ -13,7 +13,7 @@ Introduction to LoRa, long range radio networking.
 - https://www.thethingsnetwork.org/docs/lorawan/what-is-lorawan/
 - https://www.thethingsnetwork.org/device-repository/
 
-## LoRa with FreakWAN
+## FreakWAN LoRa Mesh Network
 Peer-to-peer/mesh network, requires at least two nodes.
 
 ### FreakWAN Overview
@@ -29,7 +29,7 @@ Peer-to-peer/mesh network, requires at least two nodes.
 ### FreakWAN Clients
 - https://github.com/eriol/freakble
 
-## LoRa with Meshtastic
+## Meshtastic LoRa Mesh Network
 Peer-to-peer/mesh network, requires at least two nodes.
 
 ### Meshtastic Overview
@@ -42,7 +42,7 @@ Peer-to-peer/mesh network, requires at least two nodes.
 #### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
-## LoRaWAN with TheThingsNetwork
+## TheThingsNetwork LoRaWAN network
 Shared backend with shared regional gateways, requires at least one node.
 
 ### TTN Overview
