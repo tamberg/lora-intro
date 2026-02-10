@@ -16,7 +16,7 @@ Introduction to LoRa, long range radio networking.
 - https://www.thethingsnetwork.org/docs/lorawan/what-is-lorawan/
 
 ## FreakWAN LoRa mesh network
-Peer-to-peer/mesh network, requires at least two nodes.
+FreakWAN is a peer-to-peer/mesh network based on LoRa radio, it requires at least two nodes.
 
 ### FreakWAN overview
 - https://github.com/antirez/freakwan
@@ -32,7 +32,7 @@ Peer-to-peer/mesh network, requires at least two nodes.
 - https://github.com/eriol/freakble
 
 ## Meshtastic LoRa mesh network
-Peer-to-peer/mesh network, requires at least two nodes.
+Meshtastic is a peer-to-peer/mesh network based on LoRa radio, it requires at least two nodes.
 
 ### Meshtastic overview
 - https://meshtastic.org
