@@ -14,7 +14,7 @@ Peer-to-peer/mesh network, requires at least two nodes.
 - https://github.com/antirez/freakwan
 
 ### FreakWAN Firmware
-- https://github.com/antirez/freakwan
+- https://github.com/antirez/freakwan?tab=readme-ov-file#installation
 
 ### FreakWAN Nodes
 #### Lilygo T3 LoRa32 V1.6.1
