@@ -20,6 +20,7 @@ Introduction to LoRa, long range radio networking.
 ## LoRaWAN with TheThingsNetwork
 ### LoRaWAN Backend
 - https://www.thethingsnetwork.org
+- https://eu1.cloud.thethings.network
 
 ### LoRaWAN Nodes
 #### Arduino Uno MCU w/ RFM95W Module
