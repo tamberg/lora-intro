@@ -10,9 +10,9 @@ Introduction to LoRa, long range radio networking.
 ## LoRa and LoRaWAN concepts
 ### LoRa radio
 - https://en.wikipedia.org/wiki/LoRa
-- https://blog.lora-alliance.org/what-is-lorawan
 
 ### LoRaWAN networks
+- https://blog.lora-alliance.org/what-is-lorawan
 - https://www.thethingsnetwork.org/docs/lorawan/what-is-lorawan/
 
 ## FreakWAN LoRa mesh network
