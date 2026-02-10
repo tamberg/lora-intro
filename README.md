@@ -28,7 +28,7 @@ Peer-to-peer/mesh network, requires at least two nodes.
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
 ## LoRaWAN with TheThingsNetwork
-Shared backend with shared regional gateways, requires at leas one node.
+Shared backend with shared regional gateways, requires at least one node.
 
 ### LoRaWAN Backend
 - https://www.thethingsnetwork.org
