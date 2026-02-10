@@ -14,7 +14,7 @@ Introduction to LoRa, long range radio networking.
 ### FreakWAN Nodes
 Peer-to-peer/mesh network, requires at least two nodes.
 
-#### LilyGo T3 LoRa32 V1.6.1
+#### Lilygo T3 LoRa32 V1.6.1
 - https://lilygo.cc/products/lora3 (USD 18)
 
 ## LoRa with Meshtastic
