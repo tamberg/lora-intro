@@ -21,29 +21,29 @@ Introduction to LoRa, long range radio networking.
 ### The Things Network
 - https://www.thethingsnetwork.org
 
-## LoRaWAN Nodes
-### Arduino Uno w/ RFM95W Module
+### LoRaWAN Nodes
+#### Arduino Uno MCU w/ RFM95W Module
 - http://www.tamberg.org/chopen/2017/LoRaWANIoTWorkshop.pdf
 - https://github.com/dragino/Lora/tree/master/Lora%20Shield/hardware/v1.3
 
-### Feather M4 Express w/ RFM95W Module
+#### Feather M4 Express MCU w/ RFM95W Module
 - https://github.com/tamberg/fhnw-iot/blob/master/08/README.md 
 - https://github.com/tamberg/fhnw-iot/wiki/Feather-M4-Express (USD 23)
 - https://github.com/tamberg/fhnw-iot/wiki/FeatherWing-RFM95W (USD 28)
 
-### Pi Pico 2040 w/ E5 Module
+#### Pi Pico 2040 MCU w/ E5 Module
 - https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html (USD 16)
 - https://github.com/makezurich/makezurich-badge-2023-circuitpython
 - https://github.com/makezurich/makezurich-badge-2023 (uses E5)
 
-### Pi Zero w/ RN2483 Module
+#### Pi Zero Linux Computer w/ RN2483 Module
 - https://github.com/tamberg/pi-lora
 - https://www.raspberrypi.com/products/raspberry-pi-zero-w/ (e.g. from [Pi-shop](https://www.pi-shop.ch/raspberry-pi-zero-wh-kit), CHF 32)
 - https://www.tindie.com/products/drazzy/lorawan-rn2483rn2903-breakout-board-assembled/ (USD 32)
 
-### Xiao ESP32-S3 w/ Wio SX1262 Module
+#### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
-## LoRaWAN Gateways
-### Dragino Gateway w/ 4G Uplink
+### LoRaWAN Gateways
+#### Dragino Gateway w/ 4G Uplink
 - https://dragino.com/products/lora-lorawan-gateway/item/225-dlos8n.html (e.g. from [Bastelgarage](https://www.bastelgarage.ch/dlos8n-4g-version-outdoor-multichannel-lorawan-gateway-1-2364?search=lora%20gateway), CHF 300)
