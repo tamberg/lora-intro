@@ -80,7 +80,9 @@ Shared backend with shared regional gateways, requires at least one node.
 
 #### Pi Pico W MCU w/ E5 Module
 - https://wiki.seeedstudio.com/Grove_LoRa_E5_New_Version/ (Example)
+- https://www.seeedstudio.com/Raspberry-Pi-Pico-W-p-5429.html (USD 6)
 - https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html (USD 16)
+- https://www.seeedstudio.com/Grove-Shield-for-Pi-Pico-v1-0-p-4846.html (USD 4)
 
 #### Pi Pico W MCU w/ E5 Module (#MakeZurich badge)
 - https://github.com/makezurich/makezurich-badge-2023-circuitpython (Example)
