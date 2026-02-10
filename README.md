@@ -47,7 +47,7 @@ Shared backend with shared regional gateways, requires at least one node.
 - https://eu1.cloud.thethings.network
 
 ### TTN Nodes
-> Note: LoRaWAN is a standard, nodes work as well with other providers.
+> Note: LoRaWAN is a standard, nodes work with any provider.
 
 #### Arduino Uno MCU w/ RFM95W Module
 - http://www.tamberg.org/chopen/2017/LoRaWANIoTWorkshop.pdf (Example)
@@ -74,7 +74,7 @@ Shared backend with shared regional gateways, requires at least one node.
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
 ### TTN Gateways
-> Note: LoRaWAN is a standard, gateways work as well with other providers.
+> Note: LoRaWAN is a standard, gateways work with any provider.
 
 #### Pi 3 Linux Computer w/ IMST Concentrator
 - https://www.thingiverse.com/thing:1665467 (Enclosure)
