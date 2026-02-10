@@ -78,13 +78,14 @@ Shared backend with shared regional gateways, requires at least one node.
 - https://github.com/tamberg/fhnw-iot/wiki/Feather-M4-Express (USD 23)
 - https://github.com/tamberg/fhnw-iot/wiki/FeatherWing-RFM95W (USD 28)
 
-#### Pi Pico 2040 MCU w/ E5 Module
+#### Pi Pico W MCU w/ E5 Module
 - https://wiki.seeedstudio.com/Grove_LoRa_E5_New_Version/ (Example)
 - https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html (USD 16)
 
-#### Pi Pico 2040 MCU w/ E5 Module (#MakeZurich badge)
+#### Pi Pico W MCU w/ E5 Module (#MakeZurich badge)
 - https://github.com/makezurich/makezurich-badge-2023-circuitpython (Example)
 - https://github.com/makezurich/makezurich-badge-2023 (Hardware Docs, Source)
+- http://www.tamberg.org/makezurich/2023/MakeZurichBadge2023.pdf
 
 #### Pi Zero Linux Computer w/ RN2483 Module
 - https://github.com/tamberg/pi-lora (Example)
