@@ -45,6 +45,7 @@ Shared backend with shared regional gateways, requires at least one node.
 - https://github.com/tamberg/fhnw-iot/wiki/FeatherWing-RFM95W (USD 28)
 
 #### Pi Pico 2040 MCU w/ E5 Module
+- https://wiki.seeedstudio.com/Grove_LoRa_E5_New_Version/ (Example)
 - https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html (USD 16)
 - https://github.com/makezurich/makezurich-badge-2023-circuitpython (Example)
 - https://github.com/makezurich/makezurich-badge-2023 (Hardware Docs, Source)
@@ -55,6 +56,7 @@ Shared backend with shared regional gateways, requires at least one node.
 - https://www.tindie.com/products/drazzy/lorawan-rn2483rn2903-breakout-board-assembled/ (USD 32)
 
 #### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
+- https://wiki.seeedstudio.com/wio_sx1262_with_xiao_esp32s3_kit/ (Example)
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
 ### LoRaWAN Gateways
