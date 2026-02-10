@@ -53,15 +53,15 @@ Shared backend with shared regional gateways, requires at least one node.
 ### TTN Gateways
 > Note: LoRaWAN is a standard, gateways work with any provider.
 
+#### Dragino Gateway w/ 4G Uplink
+- https://dragino.com/products/lora-lorawan-gateway/item/225-dlos8n.html (e.g. from [Bastelgarage](https://www.bastelgarage.ch/dlos8n-4g-version-outdoor-multichannel-lorawan-gateway-1-2364?search=lora%20gateway), CHF 300)
+
 #### Pi 3 Linux Computer w/ IMST Concentrator
 - https://www.thingiverse.com/thing:1665467 (Enclosure)
 - https://github.com/ttn-zh/ic880a-gateway/wiki (Software)
 - https://shop.imst.de/wireless-modules/lora-products/8/ic880a-spi-lorawan-concentrator-868-mhz (EUR 150)
 - https://shop.imst.de/wireless-modules/accessories/20/u.fl-to-sma-pigtail-cable-for-ic880a-spi (EUR 8)
 - https://shop.imst.de/wireless-modules/accessories/19/sma-antenna-for-ic880a-spi-wsa01-im880b-and-lite-gateway (EUR 8)
-
-#### Dragino Gateway w/ 4G Uplink
-- https://dragino.com/products/lora-lorawan-gateway/item/225-dlos8n.html (e.g. from [Bastelgarage](https://www.bastelgarage.ch/dlos8n-4g-version-outdoor-multichannel-lorawan-gateway-1-2364?search=lora%20gateway), CHF 300)
 
 ### TTN Firmware
 > Note: Each module provides a library, see examples.
