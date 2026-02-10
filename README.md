@@ -50,6 +50,19 @@ Shared backend with shared regional gateways, requires at least one node.
 ### TTN Backend
 - https://eu1.cloud.thethings.network
 
+### TTN Gateways
+> Note: LoRaWAN is a standard, gateways work with any provider.
+
+#### Pi 3 Linux Computer w/ IMST Concentrator
+- https://www.thingiverse.com/thing:1665467 (Enclosure)
+- https://github.com/ttn-zh/ic880a-gateway/wiki (Software)
+- https://shop.imst.de/wireless-modules/lora-products/8/ic880a-spi-lorawan-concentrator-868-mhz (EUR 150)
+- https://shop.imst.de/wireless-modules/accessories/20/u.fl-to-sma-pigtail-cable-for-ic880a-spi (EUR 8)
+- https://shop.imst.de/wireless-modules/accessories/19/sma-antenna-for-ic880a-spi-wsa01-im880b-and-lite-gateway (EUR 8)
+
+#### Dragino Gateway w/ 4G Uplink
+- https://dragino.com/products/lora-lorawan-gateway/item/225-dlos8n.html (e.g. from [Bastelgarage](https://www.bastelgarage.ch/dlos8n-4g-version-outdoor-multichannel-lorawan-gateway-1-2364?search=lora%20gateway), CHF 300)
+
 ### TTN Nodes
 > Note: LoRaWAN is a standard, nodes work with any provider.
 
@@ -76,16 +89,3 @@ Shared backend with shared regional gateways, requires at least one node.
 #### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
 - https://wiki.seeedstudio.com/wio_sx1262_with_xiao_esp32s3_kit/ (Example)
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
-
-### TTN Gateways
-> Note: LoRaWAN is a standard, gateways work with any provider.
-
-#### Pi 3 Linux Computer w/ IMST Concentrator
-- https://www.thingiverse.com/thing:1665467 (Enclosure)
-- https://github.com/ttn-zh/ic880a-gateway/wiki (Software)
-- https://shop.imst.de/wireless-modules/lora-products/8/ic880a-spi-lorawan-concentrator-868-mhz (EUR 150)
-- https://shop.imst.de/wireless-modules/accessories/20/u.fl-to-sma-pigtail-cable-for-ic880a-spi (EUR 8)
-- https://shop.imst.de/wireless-modules/accessories/19/sma-antenna-for-ic880a-spi-wsa01-im880b-and-lite-gateway (EUR 8)
-
-#### Dragino Gateway w/ 4G Uplink
-- https://dragino.com/products/lora-lorawan-gateway/item/225-dlos8n.html (e.g. from [Bastelgarage](https://www.bastelgarage.ch/dlos8n-4g-version-outdoor-multichannel-lorawan-gateway-1-2364?search=lora%20gateway), CHF 300)
