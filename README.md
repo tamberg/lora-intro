@@ -82,8 +82,7 @@ Shared backend with shared regional gateways, requires at least one node.
 - https://wiki.seeedstudio.com/Grove_LoRa_E5_New_Version/ (Example)
 - https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html (USD 16)
 
-#MakeZurich badge is a custom design using the above components.
-
+#### Pi Pico 2040 MCU w/ E5 Module (#MakeZurich badge)
 - https://github.com/makezurich/makezurich-badge-2023-circuitpython (Example)
 - https://github.com/makezurich/makezurich-badge-2023 (Hardware Docs, Source)
 
