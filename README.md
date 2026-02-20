@@ -9,6 +9,7 @@ Introduction to LoRa, long range radio networking.
 
 ## LoRa and LoRaWAN concepts
 ### LoRa radio
+- https://www.semtech.com/lora/
 - https://en.wikipedia.org/wiki/LoRa
 
 ### LoRaWAN networks
