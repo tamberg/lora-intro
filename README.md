@@ -45,6 +45,9 @@ Meshtastic is a peer-to-peer/mesh network based on LoRa radio, it requires at le
 #### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
+### Meshatastic clients
+- https://client.meshtastic.org/
+
 ### Meshtastic resources
 - https://fosdem.org/2026/schedule/event/KUZUWX-off-grid_communication_cyberpunk_and_autonomy
 
