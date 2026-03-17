@@ -57,18 +57,18 @@ MeshCore is ...
 ### MeshCore overview
 - https://meshcore.co.uk
 
-### Meshtastic firmware
-- https://github.com/meshtastic/firmware
+### MeshCore firmware
+- ...
 
-### Meshtastic nodes
+### MeshCore nodes
 #### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
 - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html (USD 10)
 
-### Meshtastic clients
-- https://client.meshtastic.org/
+### MeshCore clients
+- ...
 
-### Meshtastic resources
-- https://fosdem.org/2026/schedule/event/KUZUWX-off-grid_communication_cyberpunk_and_autonomy
+### MeshCore resources
+- ...
 
 ## TheThingsNetwork LoRaWAN network
 Shared backend with shared regional gateways, requires at least one node.
