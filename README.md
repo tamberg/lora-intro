@@ -58,7 +58,7 @@ MeshCore is ...
 - https://meshcore.co.uk
 
 ### MeshCore firmware
-- ...
+- https://flasher.meshcore.co.uk
 
 ### MeshCore nodes
 #### Xiao ESP32-S3 MCU w/ Wio SX1262 Module
