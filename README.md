@@ -53,7 +53,7 @@ Meshtastic is a peer-to-peer/mesh network based on LoRa radio, it requires at le
 - https://fosdem.org/2026/schedule/event/KUZUWX-off-grid_communication_cyberpunk_and_autonomy
 
 ## MeshCore LoRa mesh network
-MeshCore is ...
+MeshCore is a peer-to-peer/mesh network based on LoRa radio, it requires at least two nodes.
 
 ### MeshCore overview
 - https://meshcore.co.uk
