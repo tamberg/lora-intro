@@ -39,6 +39,7 @@ Meshtastic is a peer-to-peer/mesh network based on LoRa radio, it requires at le
 - https://meshtastic.org
 
 ### Meshtastic firmware
+- https://flasher.meshtastic.org/ (on Chrome)
 - https://github.com/meshtastic/firmware
 
 ### Meshtastic nodes
@@ -58,7 +59,7 @@ MeshCore is ...
 - https://meshcore.co.uk
 
 ### MeshCore firmware
-- https://flasher.meshcore.co.uk
+- https://flasher.meshcore.co.uk (on Chrome)
 - https://github.com/meshcore-dev/MeshCore
 
 ### MeshCore nodes
