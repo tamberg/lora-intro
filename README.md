@@ -5,6 +5,7 @@ Introduction to LoRa, long range radio networking.
 - [LoRa and LoRaWAN concepts](#lora-and-lorawan-concepts)
 - [FreakWAN LoRa mesh network](#freakwan-lora-mesh-network)
 - [Meshtastic LoRa mesh network](#meshtastic-lora-mesh-network)
+- [MeshCore LoRa mesh network](#meshcore-lora-mesh-network)
 - [TheThingsNetwork LoRaWAN network](#thethingsnetwork-lorawan-network)
 
 ## LoRa and LoRaWAN concepts
