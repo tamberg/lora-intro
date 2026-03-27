@@ -70,6 +70,9 @@ MeshCore is a peer-to-peer/mesh network based on LoRa radio, it requires at leas
 ### MeshCore clients
 - https://meshcore.co.uk/apps.html
 
+### MeshCore resources
+- https://www.seeedstudio.com/blog/2026/03/23/meshcore-vs-meshtastic
+
 ## TheThingsNetwork LoRaWAN network
 Shared backend with shared regional gateways, requires at least one node.
 
