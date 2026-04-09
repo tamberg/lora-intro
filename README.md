@@ -52,6 +52,7 @@ Meshtastic is a peer-to-peer/mesh network based on LoRa radio, it requires at le
 - https://github.com/meshtastic/Meshtastic-Android
 
 ### Meshtastic resources
+- https://github.com/tamberg/pi-tastic
 - https://fosdem.org/2026/schedule/event/KUZUWX-off-grid_communication_cyberpunk_and_autonomy
 
 ## MeshCore LoRa mesh network
